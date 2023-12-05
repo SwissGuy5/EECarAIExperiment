@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    overscroll-behavior-x: none;
+}
+canvas {
+    display: block;
+    position: absolute;
+    padding: 0;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 2px solid black;
+}
